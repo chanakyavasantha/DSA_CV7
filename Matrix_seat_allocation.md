@@ -24,19 +24,23 @@ Constraints
 1 ≤ C ≤ n * m
 1 ≤ ci ≤ n * m
 c1 + c2 + ... + cC = n * m
-Example
+Example<br>
 Input:
+```
 2
 2 2 2
 2 2
 2 2 1
 4
+```
 Output:
+```
 1 2
 1 2
 1 1
 1 1
-Explanation
+```
+Explanation:<br>
 Example case 1. Teams from country 1 and country 2, both can discuss problems among themselves.
 
 Note that the below given arrangement of teams is not a valid one, as the teams from same countries can't discuss problems with each other.
